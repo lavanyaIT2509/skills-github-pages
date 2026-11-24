@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-**My Bday**: TMRR!!
+My Bday: TMRR!!
 ---
